@@ -1,4 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Git Workflow v0.1
 ---
+## My primary choice of Worklow
+
+Working on smaller projects, its usually easy to control and maintain a workflow. The problem starts when the projects grow larger and more developers join the team.
+Heavily inspired by Sandofsky's suggestions for Git workflow, I believe that this workflow is one of the better ones on larger projects. The best thing, it works great for smaller projects as well.
+
+![Suggested workflow in Git]({{ site.baseurl }}/images/)
