@@ -19,7 +19,7 @@ harmony:
   meta_description: > #
    Technological blog. Everything DevOps related from my daily work and private projects.
 
-  basetheme: blue-water # pre defined thmes are darken, blue-water, redish.
+  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Egil Haugli
     email: egilrs@gmail.com
