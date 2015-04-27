@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>DevOps Engineering</description>
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 27 Apr 2015 13:30:02 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2015 13:30:02 +0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Pipeline suggestions</title>
+        <description>&lt;h2 id=&quot;pipeline&quot;&gt;Pipeline&lt;/h2&gt;
+
+&lt;p&gt;Running and mantaining an effective pipeline is one of the most important factors to achieve Continous Delivery.
+I made a quick drawing to illustrate a pipeline:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Pipeline_proposal.png&quot; alt=&quot;Pipeline&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000/2015/04/25/Pipeline/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/2015/04/25/Pipeline/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Git Workflow v0.1</title>
+        <description>&lt;h2 id=&quot;my-primary-choice-of-workflow&quot;&gt;My primary choice of Workflow&lt;/h2&gt;
+
+&lt;p&gt;Working on smaller projects, its usually easy to control and maintain a workflow. The problem starts when the projects grow larger and more developers join the team.
+Heavily inspired by &lt;a href=&quot;https://sandofsky.com/blog/git-workflow.html&quot;&gt;Sandofsky’s&lt;/a&gt; suggestions for Git workflow, I believe that this workflow is one of the better ones on larger projects. The best thing, it works great for smaller projects as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Git_Workflow_proposal.jpeg&quot; alt=&quot;Suggested workflow in Git&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Apr 2015 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000/2015/04/23/Git_Workflow/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/2015/04/23/Git_Workflow/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
