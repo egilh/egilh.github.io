@@ -24,8 +24,9 @@ Let's download the latest stable one [here](http://cloud-images.ubuntu.com/ubunt
 
 Now, remember that these images are just Ubuntu Snappy Cloud Images wrapped up in a OVA container. So, to get a machine up and running, we have to create a Cloud-Config ISO.
 
-To do so, we need to create two files.
-1. First create our files:
+To do so, we need to create two files.  
+
+1. First create our files:  
  **cloud-config**
 {% highlight yaml %}
 #cloud-config
@@ -42,7 +43,7 @@ instance-id: $(uuidgen)
 local-hostname: ubuntu-snappy
 {% endhighlight %}
 
-2. Then create either a ISO or VMDK image
+2. Then create either a ISO or VMDK image:  
 
 {% highlight bash %}
 $ dd if=/dev/zero of=bloat_file bs=1M count=10
