@@ -26,7 +26,7 @@ Now, remember that these images are just Ubuntu Snappy Cloud Images wrapped up i
 
 To do so, we need to create two files.  
 
-1. First create our files:  
+- First create our files:  
  **cloud-config**
 {% highlight yaml %}
 #cloud-config
@@ -43,7 +43,7 @@ instance-id: $(uuidgen)
 local-hostname: ubuntu-snappy
 {% endhighlight %}
 
-2. Then create either a ISO or VMDK image:  
+- Then create either a ISO or VMDK image:  
 
 {% highlight bash %}
 $ dd if=/dev/zero of=bloat_file bs=1M count=10
