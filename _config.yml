@@ -17,7 +17,7 @@ harmony:
   # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
   meta_description: > #
-   Technological blog. Everything DevOps related from my daily work and private projects.
+    Everything DevOps related from my daily work and private projects.
 
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
