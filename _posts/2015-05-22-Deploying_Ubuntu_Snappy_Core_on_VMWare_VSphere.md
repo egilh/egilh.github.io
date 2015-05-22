@@ -36,7 +36,7 @@ password: passw0rd
 chpasswd: { expire: False }
 ssh_pwauth: True
 {% endhighlight %}
-
+  
 **meta-data**
 {% highlight yaml %}
 instance-id: $(uuidgen)
