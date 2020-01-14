@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.2.1
+- 2.6.3
 script: ./script/cibuild
 
 # branch whitelist

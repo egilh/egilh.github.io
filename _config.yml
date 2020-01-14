@@ -2,7 +2,7 @@
 baseurl: ""
 
 # Site live URL
-url: http://egil.ninja
+url: https://test.egilh.no
 
 # Localhost
 # url: http://127.0.0.1:4000
@@ -43,7 +43,7 @@ harmony:
 # Conversion / Build settings
 markdown:    kramdown
 # This is how you put pygments config in jekyll 2.0 instead of pygments: true
-highlighter: pygments
+highlighter: rouge
 lsi:         false
 excerpt_separator: "\n\n"
 
